@@ -1,0 +1,16 @@
+PODS:
+  - RCArchitecture (0.1.0)
+
+DEPENDENCIES:
+  - RCArchitecture (from `../`)
+
+EXTERNAL SOURCES:
+  RCArchitecture:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  RCArchitecture: 2e4f9f1560c1f685b19fdf62791bc1324fbf6de6
+
+PODFILE CHECKSUM: 30ade0262ad0bb231af4d546e80f82e0d710ace9
+
+COCOAPODS: 1.8.3

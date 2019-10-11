@@ -1,0 +1,6 @@
+framework module Pods_RCArchitecture_Example {
+  umbrella header "Pods-RCArchitecture_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

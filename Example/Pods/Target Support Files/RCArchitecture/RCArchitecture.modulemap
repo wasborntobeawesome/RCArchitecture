@@ -1,0 +1,6 @@
+framework module RCArchitecture {
+  umbrella header "RCArchitecture-umbrella.h"
+
+  export *
+  module * { export * }
+}
