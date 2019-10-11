@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'RCArchitecture_Example' do
+  pod 'RCArchitecture', :path => '../'
+
+  target 'RCArchitecture_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
