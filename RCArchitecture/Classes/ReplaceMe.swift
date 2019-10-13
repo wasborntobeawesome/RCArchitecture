@@ -1,6 +1,6 @@
 
 public class TestOP {
-    static func testOP() {
+   public static func testOP() {
         print("TSSTTT")
     }
 }
